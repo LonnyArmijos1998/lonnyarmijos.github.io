@@ -1,18 +1,15 @@
-# 📊 Análisis de Datos con BigQuery SQL
 
-Este documento contiene el análisis realizado con consultas SQL en Google BigQuery sobre el dataset `nueva_tabla_union`, que registra viajes de bicicletas públicas con detalles de duración, fechas y tipo de usuario.
+📊 Data Analysis with BigQuery SQL
+This document contains the analysis performed using SQL queries in Google BigQuery on the nueva_tabla_union dataset, which records public bicycle trips with details such as duration, dates, and user type.
 
----
+🔍 Dataset
+Project: ageless-talent-464602-m8
 
-## 🔍 Dataset
+Dataset: lonnyprojectgoogle
 
-- Proyecto: `ageless-talent-464602-m8`
-- Dataset: `lonnyprojectgoogle`
-- Tabla: `nueva_tabla_union`
+Table: nueva_tabla_union
 
-Contiene registros con columnas como: `member_casual`, `started_at`, `ended_at`, entre otros.
-
----
+It contains records with columns such as member_casual, started_at, ended_at, among others.
 
 
 
